@@ -1,4 +1,4 @@
-# Data-Project
+# MRM Restaurant
 Data Analysis Project
 This is just a university group project to create a database, populate it and make queries.
 
